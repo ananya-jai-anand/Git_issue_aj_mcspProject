@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Git_issue_aj_mcspProject
+  gitServerName: gh_aj
+  gitUrl: https://github.com/ananya-jai-anand
+  gitUsername: ananya-jai-anand
+  gitBranch: main
